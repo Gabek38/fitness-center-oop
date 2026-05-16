@@ -1,6 +1,6 @@
 # main.py
-# Entry point for the OOP-refactored Campus Fitness Center application.
-# AI assistance was used in the design and implementation of this refactor.
+# Entry point for the OOP-refactored Campus Fitness Center.
+# AI assistance (Claude by Anthropic) was used in this project per course policy.
 
 from fitness_center import FitnessCenter
 
